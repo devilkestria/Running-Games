@@ -71,3 +71,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+*.meta
+*.png
+*.meta
+*.jpg
+*.fbx
+*.shadergraph
+*.meta
+*.mat
+*.shadergraph
+*.ShaderSubGraph
+*.cubemap

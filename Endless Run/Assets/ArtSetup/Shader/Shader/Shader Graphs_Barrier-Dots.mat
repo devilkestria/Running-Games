@@ -51,25 +51,25 @@ Material:
     - _Blend: 2
     - _CastShadows: 1
     - _Cull: 2
-    - _DotsNoiseScale: 30
+    - _DotsNoiseScale: 46.3
     - _Dots_SIze: 0.7
     - _Dots_SIzeS: 1
     - _DstBlend: 1
-    - _MaskStrength: 2.6
-    - _NoiseScale: 14.51
+    - _MaskStrength: 1.8
+    - _NoiseScale: -1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
     - _Surface: 1
-    - _Width: 0.37
+    - _Width: 0.38
     - _ZTest: 4
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _BorderColor: {r: 0.5723994, g: 1.4752798, b: 54.664032, a: 1}
-    - _DotsColor: {r: 0, g: 0.737506, b: 2.1671314, a: 0}
+    - _BorderColor: {r: 0.20440248, g: 0.2671457, b: 0.3333333, a: 1}
+    - _DotsColor: {r: 0.0658992, g: 0.25192282, b: 0.42767292, a: 0}
     - _Dots_Tiling: {r: 13.52, g: 9.36, b: 0, a: 0}
-    - _NoiseSpeed: {r: 0, g: 0.2, b: 0, a: 0}
+    - _NoiseSpeed: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &5764882116647002967
